@@ -11,6 +11,48 @@ namespace Lab_01.Fisier
     {
         public CitireScriere() { }
 
+        public Tuple<int, List<int>, List<string[]>> CitireFisierProdusCartezian(string path)
+        {
+            try
+            {
+                var lines = File.ReadAllLines(path);
+
+                var nrMultimi = lines[0].Trim();
+
+                List<int> dimMultimi = new List<int>();
+
+                List<string[]> multimi = new List<string[]>();
+
+                for(int i= 1; i < lines.Length; i = i+2)
+                {
+                    dimMultimi.Add(int.Parse(lines[i].Trim()));
+                    multimi.Add(lines[i+1].Split(' '));
+                }
+
+                return new Tuple<int, List<int>, List<string[]>>(int.Parse(nrMultimi), dimMultimi, multimi);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public int CitireFisierPermutari(string path)
+        {
+            try
+            {
+                var lines = File.ReadAllLines(path);
+
+                var result = int.Parse(lines[0].Trim());
+
+                return result;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public int[] CitireFisierValLipsa(string path)
         {
             try

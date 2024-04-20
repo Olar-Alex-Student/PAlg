@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\ValoareMaxima\bin\Debug\ValoareMaxima.exe.config
+D:\PAlg\PAlg\ValoareMaxima\bin\Debug\ValoareMaxima.exe
+D:\PAlg\PAlg\ValoareMaxima\bin\Debug\ValoareMaxima.pdb
+D:\PAlg\PAlg\ValoareMaxima\obj\Debug\ValoareMaxima.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\ValoareMaxima\obj\Debug\ValoareMaxima.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\ValoareMaxima\obj\Debug\ValoareMaxima.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\ValoareMaxima\obj\Debug\ValoareMaxima.exe
+D:\PAlg\PAlg\ValoareMaxima\obj\Debug\ValoareMaxima.pdb

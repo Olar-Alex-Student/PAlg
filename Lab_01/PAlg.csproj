@@ -43,16 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algoritmi\GenerarePermutari.cs" />
     <Compile Include="Algoritmi\Matrici.cs" />
     <Compile Include="Algoritmi\Maxim.cs" />
     <Compile Include="Algoritmi\Prim.cs" />
+    <Compile Include="Algoritmi\ProdusCartezian.cs" />
     <Compile Include="Algoritmi\Sort.cs" />
     <Compile Include="Algoritmi\ValoareLipsa.cs" />
     <Compile Include="Fisier\CitireScriere.cs" />
     <Compile Include="Implement\Implementare.cs" />
     <Compile Include="Implement\ImplementMatrici\ImplementareInmultireMatrici.cs" />
     <Compile Include="Implement\ImplementMaxim\ImplementareMaxim.cs" />
+    <Compile Include="Implement\ImplementPermutari\ImplementarePermutari.cs" />
     <Compile Include="Implement\ImplementPrim\ImplementarePrim.cs" />
+    <Compile Include="Implement\ImplementProdusCartezian\ImplementareProdusCartezian.cs" />
     <Compile Include="Implement\ImplementSort\ImplementareSortBule.cs" />
     <Compile Include="Implement\ImplementSort\ImplementareSortMinim.cs" />
     <Compile Include="Implement\ImplementValoareLipsa\ImplementareValoareLipsa.cs" />

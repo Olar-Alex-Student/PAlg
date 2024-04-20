@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\Interclasare\bin\Debug\Interclasare.exe.config
+D:\PAlg\PAlg\Interclasare\bin\Debug\Interclasare.exe
+D:\PAlg\PAlg\Interclasare\bin\Debug\Interclasare.pdb
+D:\PAlg\PAlg\Interclasare\obj\Debug\Interclasare.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\Interclasare\obj\Debug\Interclasare.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\Interclasare\obj\Debug\Interclasare.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\Interclasare\obj\Debug\Interclasare.exe
+D:\PAlg\PAlg\Interclasare\obj\Debug\Interclasare.pdb

@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\PAlg\PAlg\BubbleSort\bin\Debug\BubbleSort.exe
+D:\PAlg\PAlg\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\PAlg\PAlg\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\BubbleSort\obj\Debug\BubbleSort.exe
+D:\PAlg\PAlg\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\Prim\bin\Debug\Prim.exe.config
+D:\PAlg\PAlg\Prim\bin\Debug\Prim.exe
+D:\PAlg\PAlg\Prim\bin\Debug\Prim.pdb
+D:\PAlg\PAlg\Prim\obj\Debug\Prim.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\Prim\obj\Debug\Prim.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\Prim\obj\Debug\Prim.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\Prim\obj\Debug\Prim.exe
+D:\PAlg\PAlg\Prim\obj\Debug\Prim.pdb

@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\ValoareLipsa\bin\Debug\ValoareLipsa.exe.config
+D:\PAlg\PAlg\ValoareLipsa\bin\Debug\ValoareLipsa.exe
+D:\PAlg\PAlg\ValoareLipsa\bin\Debug\ValoareLipsa.pdb
+D:\PAlg\PAlg\ValoareLipsa\obj\Debug\ValoareLipsa.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\ValoareLipsa\obj\Debug\ValoareLipsa.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\ValoareLipsa\obj\Debug\ValoareLipsa.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\ValoareLipsa\obj\Debug\ValoareLipsa.exe
+D:\PAlg\PAlg\ValoareLipsa\obj\Debug\ValoareLipsa.pdb

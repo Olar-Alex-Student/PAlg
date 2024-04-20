@@ -1,6 +1,8 @@
 ﻿using Lab_01.Implement.ImplementMatrici;
 using Lab_01.Implement.ImplementMaxim;
+using Lab_01.Implement.ImplementPermutari;
 using Lab_01.Implement.ImplementPrim;
+using Lab_01.Implement.ImplementProdusCartezian;
 using Lab_01.Implement.ImplementSort;
 using Lab_01.Implement.ImplementValoareLipsa;
 
@@ -24,6 +26,8 @@ namespace Lab_01.Implement
             ImplementareSortMinim implementareSortMinim = new ImplementareSortMinim();
             ImplementareMaxim implementareMaxim = new ImplementareMaxim();
             ImplementareInmultireMatrici implementareInmultireMatrici = new ImplementareInmultireMatrici();
+            ImplementarePermutari implementarePermutari = new ImplementarePermutari();
+            ImplementareProdusCartezian implementareProdusCartezian = new ImplementareProdusCartezian();
             
             implementareValoareLipsa.Main();
             implementareSortBule.Main();
@@ -31,6 +35,8 @@ namespace Lab_01.Implement
             implementareSortMinim.Main();
             implementareMaxim.Main();
             implementareInmultireMatrici.Main();
+            implementarePermutari.Main();
+            implementareProdusCartezian.Main();
         } 
     }
 }

@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\Cautare\bin\Debug\Cautare.exe.config
+D:\PAlg\PAlg\Cautare\bin\Debug\Cautare.exe
+D:\PAlg\PAlg\Cautare\bin\Debug\Cautare.pdb
+D:\PAlg\PAlg\Cautare\obj\Debug\Cautare.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\Cautare\obj\Debug\Cautare.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\Cautare\obj\Debug\Cautare.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\Cautare\obj\Debug\Cautare.exe
+D:\PAlg\PAlg\Cautare\obj\Debug\Cautare.pdb

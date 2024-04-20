@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\DeterminaMaxim\bin\Debug\DeterminaMaxim.exe.config
+D:\PAlg\PAlg\DeterminaMaxim\bin\Debug\DeterminaMaxim.exe
+D:\PAlg\PAlg\DeterminaMaxim\bin\Debug\DeterminaMaxim.pdb
+D:\PAlg\PAlg\DeterminaMaxim\obj\Debug\DeterminaMaxim.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\DeterminaMaxim\obj\Debug\DeterminaMaxim.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\DeterminaMaxim\obj\Debug\DeterminaMaxim.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\DeterminaMaxim\obj\Debug\DeterminaMaxim.exe
+D:\PAlg\PAlg\DeterminaMaxim\obj\Debug\DeterminaMaxim.pdb

@@ -1,0 +1,8 @@
+D:\PAlg\PAlg\SorteazaMinim\bin\Debug\SorteazaMinim.exe.config
+D:\PAlg\PAlg\SorteazaMinim\bin\Debug\SorteazaMinim.exe
+D:\PAlg\PAlg\SorteazaMinim\bin\Debug\SorteazaMinim.pdb
+D:\PAlg\PAlg\SorteazaMinim\obj\Debug\SorteazaMinim.csproj.AssemblyReference.cache
+D:\PAlg\PAlg\SorteazaMinim\obj\Debug\SorteazaMinim.csproj.SuggestedBindingRedirects.cache
+D:\PAlg\PAlg\SorteazaMinim\obj\Debug\SorteazaMinim.csproj.CoreCompileInputs.cache
+D:\PAlg\PAlg\SorteazaMinim\obj\Debug\SorteazaMinim.exe
+D:\PAlg\PAlg\SorteazaMinim\obj\Debug\SorteazaMinim.pdb
